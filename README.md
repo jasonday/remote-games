@@ -104,3 +104,4 @@ Casual remote games to play with teams over teleconferencing/video chat
 * The conductor chooses what to "draw" and brandishing an invisible pencil (baton) slowly draws it in the air in front of the camera
 * The "orchestra" members (everyone else) attempt to follow along and draw on their paper what the conductor is drawing
 * Everyone shows their drawings and the conductor chooses the closest likeness
+* The winner then becomes the next conductor
