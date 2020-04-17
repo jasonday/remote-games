@@ -7,6 +7,7 @@ Casual remote games to play with teams over teleconferencing/video chat
 * [Pictionary](#Pictionary)
 * [Punderful](#Punderful)
 * [Scattergories](#Scattergories)
+* [Conductor](#Conductor)
 
 ## 10 Second Animal
 **Number of players:** At least 3
@@ -92,3 +93,14 @@ Casual remote games to play with teams over teleconferencing/video chat
 
 * Casual: Without teams, the group as a whole provides answers to the categories - providing interesting, obscure, or funny answers is encouraged
 
+## Conductor
+**Number of players:** At least 3
+
+**Requires:** Paper, markers, and ideas for things to draw. If stuck use the [Pictionary word generator)(https://randomwordgenerator.com/pictionary.php) for ideas
+
+**Rules:**
+
+* Everyone takes turns being the conductor
+* The conductor chooses what to "draw" and brandishing an invisible pencil (baton) slowly draws it in the air in front of the camera
+* The "orchestra" members (everyone else) attempt to follow along and draw what the conductor is drawing
+* Everyone shows their drawings and the conductor chooses the closest likeness
