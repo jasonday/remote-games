@@ -1,4 +1,4 @@
-# remote-games
+# Remote Games
 Casual remote games to play with teams over teleconferencing/video chat
 
 ## Games
@@ -96,7 +96,7 @@ Casual remote games to play with teams over teleconferencing/video chat
 ## Conductor
 **Number of players:** At least 3
 
-**Requires:** Paper, markers, and ideas for things to draw. If stuck use the [Pictionary word generator)(https://randomwordgenerator.com/pictionary.php) for ideas
+**Requires:** Paper, markers, and ideas for things to draw. If stuck use the [Pictionary word generator](https://randomwordgenerator.com/pictionary.php) for ideas
 
 **Rules:**
 
