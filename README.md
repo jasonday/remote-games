@@ -96,7 +96,7 @@ Casual remote games to play with teams over teleconferencing/video chat
 ## Conductor
 **Number of players:** At least 3
 
-**Requires:** Paper, markers, and ideas for things to draw. If stuck use the [Pictionary word generator](https://randomwordgenerator.com/pictionary.php) for ideas
+**Requires:** Paper, markers, and ideas for things to draw.
 
 **Rules:**
 
@@ -105,3 +105,8 @@ Casual remote games to play with teams over teleconferencing/video chat
 * The "orchestra" members (everyone else) attempt to follow along and draw on their paper what the conductor is drawing
 * Everyone shows their drawings and the conductor chooses the closest likeness
 * The winner then becomes the next conductor
+
+**Resources:**
+
+* [Easy to draw words 1](https://www.thegamegal.com/wp-content/uploads/2011/11/Pictionary-Words-Easy.pdf) and [Easy to draw words 2](https://www.thegamegal.com/wp-content/uploads/2014/06/Pictionary-Words-Easy-2.pdf)
+* [Pictionary word generator](https://randomwordgenerator.com/pictionary.php)
